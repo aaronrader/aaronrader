@@ -4,7 +4,7 @@
 - I’m currently learning the basics of Java, C, C++, Javascript, and SQL.
 
 ## How to reach me:
-- email: aaronrader1867@gmail.com
+- email: aaronrader@protonmail.com
 
 <!---
 aaronrader/aaronrader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
