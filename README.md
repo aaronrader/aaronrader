@@ -1,3 +1,5 @@
+# *Prospective Employers: Please reach out to me so that I can link my private repositories!*
+
 # Hi, I’m Aaron Rader
 - I'm a Computer Programming and Analysis student at Fanshawe College in London Ontario.
 - I'm currently in term 3, and looking for a winter 2022 co-op opportunity.
