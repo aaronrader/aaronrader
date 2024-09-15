@@ -2,7 +2,7 @@
 
 # Hi, I’m Aaron Rader
 - I'm a Computer Programming and Analysis student at Fanshawe College in London Ontario.
-- I'm currently in term 5, and looking for a Summer 2024 co-op opportunity.
+- I'm currently in term 6, set to graduate in December 2024.
 
 ## How to reach me:
 - personal email: aaronrader@protonmail.com
